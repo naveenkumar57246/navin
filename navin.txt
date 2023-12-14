@@ -1,0 +1,7 @@
+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
+
+
+git remote set-url origin https://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@github.com/naveenkumar57246/gittest 
+
+
+https://github.com/naveenkumar57246/gittest 
